@@ -11,6 +11,7 @@ uses https://github.com/transitive-bullshit/chatgpt-api under the hood
 - (optional) SECRET_KEY if you want to add more security to your requests
 - install requirements with npm install or yarn install
 - start with npm run start:dev or yarn run start:dev
+  
 
 
 ## Methods 
@@ -29,6 +30,7 @@ body parameters:
 - text - prompt message
 - conversationId - (optional) previous conversation id
 - secret - (optional) secret key if process.env.SECRET_KEY is set
+  
 
 
 ### Where to get a remote server?
